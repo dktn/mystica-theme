@@ -2,7 +2,7 @@
     "name": "mystica",
     "displayName": "Mystica",
     "description": "Mystica color theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "dktn",
     "engines": {
         "vscode": "^1.42.0"
