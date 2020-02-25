@@ -1,0 +1,22 @@
+{
+    "name": "mystica",
+    "displayName": "Mystica",
+    "description": "Mystica color theme",
+    "version": "0.0.1",
+    "publisher": "dktn",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mystica",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mystica-color-theme.json"
+            }
+        ]
+    }
+}
